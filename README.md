@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @prafcr7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...hi am lwraning jav script
+- 👀 I’m interested in  physical sports,sci-fi movies
+- 🌱 I’m currently learning  web devlopment
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me  just message on email
+- 😄 Pronouns: prafull uikey
+- ⚡ Fun fact: ... i am learning java script 
 - 
 
 <!---
